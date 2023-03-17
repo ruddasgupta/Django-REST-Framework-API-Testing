@@ -38,4 +38,5 @@ OR
 
 ## Test Book App with coverage
 > coverage run ./manage.py test books
+
 > coverage html
